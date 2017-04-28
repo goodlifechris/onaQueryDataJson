@@ -1,4 +1,4 @@
-package com.siafuinc.ona;
+package com.siafuinc.ona.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
